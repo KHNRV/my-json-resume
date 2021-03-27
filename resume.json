@@ -1,0 +1,162 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Kevin Nicolas",
+    "label": "Full Stack Web Developer",
+    "image": "",
+    "email": "bonjour@kevinnicolas.com",
+    "phone": "(514) 431-2358",
+    "url": "https://kevinnicolas.com",
+    "summary": "",
+    "location": {
+      "address": "1-7315 rue Cartier",
+      "postalCode": "H2E 2J3",
+      "city": "Montréal",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "profiles": [{
+        "network": "LinkedIn",
+        "username": "kevinnicolasr",
+        "url": "https://linkedin.com/in/kevinnicolasr"
+      },
+      {
+        "network": "GitHub",
+        "username": "KHNRV",
+        "url": "https://github.com/KHNRV"
+      }
+    ]
+  },
+  "work": [{
+    "name": "Université de Montréal",
+    "location": "Montréal, QC",
+    "description": "Teaching & Research Institution",
+    "position": "Teaching Assistant",
+    "url": "https://www.umontreal.ca/",
+    "startDate": "2017-09-01",
+    "endDate": "2020-04-30",
+    "summary": "",
+    "highlights": [
+      "Mentor student to help then acquire the necessary audio-visual skills to be comfortable crafting professional looking video/photo productions",
+      "Create quality educational multimedia digital content in order to facilitate the students understanding of complex subjects",
+      "Design the courses page on the university's LMS (Moodle) to increase readability and enhance the students learning experience",
+      "Collaborate with lecturers to prepare and teach the courses material",
+      "Grade student assignments and projects using video recordings to provide detail understanding of their strength and weaknesses with some insights on how to improve"
+    ]
+  }],
+  "education": [{
+    "institution": "Lighthouse Labs",
+    "startDate": "2021-02-01",
+    "endDate": "2021-04-30",
+    "area": "Full Stack Web Development",
+    "studyType": "Diploma",
+    "url": "https://www.lighthouselabs.ca/"
+  }, {
+    "institution": "Université de Montréal",
+    "url": "https://www.umontreal.ca/",
+    "area": "Communication Sciences",
+    "studyType": "Bachelor of Science",
+    "startDate": "2014-09-01",
+    "endDate": "2017-04-30",
+    "courses": [
+      "COM 2021 - Basic SQL",
+      "CS2011 - Java Introduction"
+    ]
+  }, {
+    "institution": "Université de Montréal",
+    "url": "https://www.umontreal.ca/",
+    "area": "Communication Sciences",
+    "studyType": "Master of Science",
+    "startDate": "2017-09-01",
+    "endDate": "2020-07-31"
+
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Junior",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Ruby",
+      "NodeJS",
+      "Rails",
+      "Ajax",
+      "Express",
+      "EJS",
+      "JQuery",
+      "Bootstrap",
+      "SASS",
+      "SQL",
+      "Git",
+      "Moka & Chai",
+      "Jest",
+      "Cypress",
+      "Wordpress",
+      "Moodle"
+    ]
+  }, {
+    "name": "Video Production",
+    "level": "intermediate",
+    "keywords": ["Premiere Pro", "After Effect", "Photoshop", "Lightroom", "Illustrator", "DaVinci Resolve"]
+  }],
+  "languages": [{
+      "language": "French",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "projects": [{
+    "name": "Follow on the Road",
+    "description": "A short dancefilm promoting Quebec's Swing musicians and dancers",
+    "highlights": [
+      "Won award at AIHacks 2016",
+      "Built by all women team of newbie programmers",
+      "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+    ],
+    "keywords": [
+      "Blackmagic Pocket Cinema 4k",
+      "DaVinci Resolve", "Project Management", "Storytelling"
+    ],
+    "startDate": "2020-07-01",
+    "endDate": "2020-11-30",
+    "url": "https://fotr.ca",
+    "roles": [
+      "Director", "Co-Producer", "Cameraman", "Video Editor"
+    ],
+    "entity": "Followlogie",
+    "type": "movie"
+  }, {
+    "name": "FlashQuiz | A Rocket Fast Quiz Game",
+    "description": "Want to test your knowledge on certain topics? Want to see how you compare against the rest of the world? Well, FlashQuiz will not only test your knowledge but will derive you score based on fast you can answer your questions! If you are quiz enthusiast, you can play, create and share quizzes with your friends!",
+    "highlights": [],
+    "keywords": [
+      "NodeJS", "EJS", "Express", "SASS", "PostgreSQL", "Bootstrap", "jQuery"
+    ],
+    "startDate": "2021-03-04",
+    "endDate": "2021-03-11",
+    "url": "https://github.com/KHNRV/FlashQuiz",
+    "entity": "Lighthouse Labs",
+    "type": "application"
+
+  }, {
+    "name": "Interview Scheduler",
+    "description": "Interview Scheduler is a React based web-app allowing users to book practice tech interviews with mentors. It updated lives as users are booking interviews thanks to the implementation of WebSocket.",
+    "highlights": [],
+    "keywords": ["React", "NodeJS", "WebSocket", "SASS", "Axios", "Jest", "Cypress", "Storybook"],
+    "startDate": "2020-03-12",
+    "endDate": "2020-03-18",
+    "url": "https://github.com/KHNRV/scheduler",
+    "entity": "Lighthouse Labs",
+    "type": "application"
+  }],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
